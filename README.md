@@ -1,3 +1,6 @@
+![Algorithm Animation](20250506_1412_Algorithm%20Animation%20Fun_remix_01jtjr30d3ec3vjgch0s1s6fze.png)
+
+
 <h2>AIM OF THE PROJECT</h2>
 
 The aim of this project was to solve the binary signal recovery problem using Markov Chain Monte Carlo (MCMC) techniques, specifically the Metropolis-Hastings algorithm, to estimate a binary signal from noisy observations. 
